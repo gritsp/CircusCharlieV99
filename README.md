@@ -2,7 +2,7 @@
 This game is second project C# of advance computer programming
 Develop by Visual Studio
 
-This game was modified form the original as follows.
+This game was modified from the original as follows.
 1. Game have 2 player.
 2. Player must snatch coin from other player.
 3. This game have enemy and last Boss.
