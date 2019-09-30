@@ -1,0 +1,140 @@
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\ground.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\mountain.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\sky.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player1.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\CircusV2.exe
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\CircusV2.pdb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\Team Drives\Advance compro\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csprojResolveAssemblyReference.cache
+G:\Team Drives\Advance compro\CircusV2\CircusV2\obj\x86\Debug\CircusV2.exe
+G:\Team Drives\Advance compro\CircusV2\CircusV2\obj\x86\Debug\CircusV2.pdb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Background.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player2.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\playerAnimation1.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player1animation.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player1.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player2.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\playerAnimation1.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Background.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\ground.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\mountain.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\sky.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\CircusV2.exe
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\CircusV2.pdb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csprojResolveAssemblyReference.cache
+D:\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csproj.CoreCompileInputs.cache
+D:\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csproj.CopyComplete
+D:\CircusV2\CircusV2\obj\x86\Debug\CircusV2.exe
+D:\CircusV2\CircusV2\obj\x86\Debug\CircusV2.pdb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Rock.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\player\player1animation.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\Background.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\ground.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\mountain.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\sky.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\bg\Rock.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\CircusV2.exe
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\CircusV2.pdb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\obj\x86\Debug\CircusV2.csprojResolveAssemblyReference.cache
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\obj\x86\Debug\CircusV2.csproj.CoreCompileInputs.cache
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\obj\x86\Debug\CircusV2.csproj.CopyComplete
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\obj\x86\Debug\CircusV2.exe
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\obj\x86\Debug\CircusV2.pdb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerBlue.xnb
+G:\Team Drives\Advance compro\Circus Chalie\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerRed.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerBlue.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerRed.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bullet\bullet.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\fireringback.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\fireringfront.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bullet\bullet.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Rock.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\fireringfront.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\fireringback.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\player1animation.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerBlue.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\player\PlayerRed.xnb
+D:\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\coin.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\coin.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\firering\fireback.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\firering\fireflont.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\goal1.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\goal2.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csproj.CoreCompileInputs.cache
+G:\Team Drives\Advance compro\CircusV2\CircusV2\obj\x86\Debug\CircusV2.csproj.CopyComplete
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Fire.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\sky2.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Boss.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bullet\BulletBoss.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile250.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile500.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\Tile800.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\bg\sky3.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\font.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\BlueWin.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\RedWin.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\Circus.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\tag12.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\p12.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\cirss.wma
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\cirss.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\non.wma
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\non.xnb
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\lung.wma
+G:\Team Drives\Advance compro\CircusV2\CircusV2\bin\Windows\x86\Debug\Content\lung.xnb
