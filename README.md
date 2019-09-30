@@ -1,6 +1,6 @@
 # Circus Charlie V99
 This game is second project C# of advance computer programming
-Develop by Visual Studio
+Develop by Visual Studio and MonoGame
 
 This game was modified from the original as follows.
 1. Game have 2 player.
