@@ -1,5 +1,5 @@
 # Circus Charlie V99
-This game is project C# of advance computer programming
+This game is second project C# of advance computer programming
 Develop by Visual Studio
 
 This game was modified form the original as follows.
